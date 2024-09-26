@@ -1,0 +1,1 @@
+This List only contains basic Python exercices and their answers, please Note that sometimes the Answer might not be optimized, for the most part, I tried to limit down My usage of predefined functions only when mandatory, just to add up a bit of challenge to get used to writing algorithms
